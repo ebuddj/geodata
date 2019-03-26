@@ -1,2 +1,2 @@
 # geodata
-Geo data files in various formats.
+Geodata files in various formats.
